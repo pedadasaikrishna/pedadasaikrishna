@@ -40,6 +40,8 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedadasaikrishna&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedadasaikrishna&layout=compact&theme=radical)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=pedadasaikrishna&theme=radical)](https://git.io/streak-stats)
+![Profile Views](https://komarev.com/ghpvc/?username=pedadasaikrishna&color=blueviolet)
 
 ---
 
