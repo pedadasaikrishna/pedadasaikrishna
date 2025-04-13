@@ -35,13 +35,31 @@
 - **Tools**: Git, GitHub, VS Code  
 
 ---
-
 ## 📈 GitHub Stats  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedadasaikrishna&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedadasaikrishna&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedadasaikrishna&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedadasaikrishna&layout=compact&theme=radical&langs_count=8)  
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=pedadasaikrishna&theme=radical)](https://git.io/streak-stats)
-![Profile Views](https://komarev.com/ghpvc/?username=pedadasaikrishna&color=blueviolet)
+
+![Profile Views](https://komarev.com/ghpvc/?username=pedadasaikrishna&color=blueviolet&style=flat-square)
+
+---
+
+## 🏆 GitHub Trophies  
+![Trophies](https://github-profile-trophy.vercel.app/?username=pedadasaikrishna&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+## 📊 GitHub Activity Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pedadasaikrishna&theme=radical)
+
+---
+
+## 🐍 Contribution Snake  
+![Contribution Snake](https://raw.githubusercontent.com/pedadasaikrishna/pedadasaikrishna/output/github-contribution-grid-snake.svg)
+
 
 ---
 
