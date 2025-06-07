@@ -1,69 +1,61 @@
-# 👋 Hi, I'm Sai Krishna!  
+# 👋 Hi, I'm Sai Krishna!
 
-👑 **Web Developer | Programmer | MERN Stack Enthusiast | AI & ML Explorer**  
-🚀 Passionate about building innovative projects and solving real-world problems.  
-
----
-
-## 🌟 About Me  
-
-- 🔭 I’m currently working on **Innovative Lab**, a dynamic platform integrating React, AI, and backend systems.  
-- 🌱 I’m exploring **AI technologies** and mastering the **MERN stack**.  
-- 💡 I love solving complex problems and making life easier with technology.  
-- 💬 Ask me about **React.js**, **Node.js**, **MySQL**, or **Python**.  
-- ⚡ Fun fact: I enjoy turning coffee ☕ and code 💻 into awesome creations!  
+## 👑 AI, ML & Gen AI Explorer| Programmer | Web Developer | MERN Stack Enthusiast 
+🚀 Passionate about building innovative projects and solving real-world problems.
 
 ---
 
-## 🌐 Let's Connect  
-
-🌍 **Find me across the web:**  
-- [🌐 Portfolio](https://saikrishnapedada.netlify.app/)  
-- [💼 LinkedIn](https://www.linkedin.com/in/pedada-sai-krishna-94339b297/)  
-- [🐦 Twitter](https://x.com/i/flow/login?redirect_after_login=%2Fsaikrishna_1205)  
-- [📷 Instagram](https://www.instagram.com/_p_s_k_12_/)  
-- [📂 GitHub](https://github.com/pedadasaikrishna)  
+## 🌟 About Me
+- 🌱 Deeply focused on **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and **Generative AI** technologies. Actively exploring roles and opportunities in these domains.
+- 🔭 Currently building **Innovative Lab** – a powerful platform blending **React**, **AI**, and backend systems.
+- 💡 I enjoy crafting smart solutions to complex problems and enhancing daily life through tech.
+- 💬 Ask me about **React.js**, **Node.js**, **MySQL**, **Python**, or anything related to **AI & ML**.
+- ⚡ Fun fact: I turn ☕ + 💻 into 🚀 magic!
 
 ---
 
-## 💼 Skills  
+## 💼 Skills
 
-- **Languages**: JavaScript, Python, C, Java ,c++ 
-- **Frontend**: React.js, Html, css,   
-- **Backend**: Node.js, Express.js  
-- **Database**: MySQL, MongoDB  
-- **Tools**: Git, GitHub, VS Code  
-
----
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedadasaikrishna&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedadasaikrishna&layout=compact&theme=radical&langs_count=8)  
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=pedadasaikrishna&theme=radical)](https://git.io/streak-stats)
-
-![Profile Views](https://komarev.com/ghpvc/?username=pedadasaikrishna&color=blueviolet&style=flat-square)
+- **Languages**:  Python, Java , C
+- **Frontend**: React.js, HTML, CSS , Js
+- **Backend**: Node.js, Express.js
+- **Databases**: MySQL, MongoDB
+- **Tools**: Git, GitHub, VS Code ,OpenAI , Google Colab
+- **AI/ML Tools**: NumPy, Pandas, Scikit-learn, TensorFlow
 
 ---
 
-## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=pedadasaikrishna&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+## 🌐 Connect with Me
+
+🌍 **Find me across the web:**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?logo=Google-Chrome&logoColor=white)](https://saikrishnapedada.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/pedada-sai-krishna-94339b297/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram)](https://www.instagram.com/_p_s_k_12_/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/pedadasaikrishna)
+
+## 🛠️ Projects
+
+> **Innovative Lab** – A collaborative and intelligent platform empowering remote teams with real-time communication (chat, video calls), task management, file sharing, and a coding playground. Built using **React.js**, **Node.js**, and **MySQL**, with stunning dark mode UI and ongoing AI integration.
+
+> **PsyShell** – A modern mental wellness collaboration platform focused on accessibility and security. Features include user-friendly mental health tools, interactive communication, and a secure backend using **Node.js** and **SQL**.  
+🔗 [Live Demo](https://psyshell.co/) 
+
+> **MindMash – Quiz App** – An engaging quiz platform built with **React**, offering real-time scoring, responsive design, and fun, informative content across multiple categories.  
+🔗 [Try It](https://mindmash.netlify.app/) 
+
+> **Mini Projects** – Small but impactful tools and experiments:
+- 🔍 [QR Code Generator](https://qrgeneratorbysaikrishna.netlify.app)
+- 🛡️ [Password Validator – GitHub Repo](https://github.com/pedadasaikrishna/passwordvalidator)
+
+> _More projects coming soon... Stay tuned! 🚀_
+
+## ❤️ Let's Build Together!
+
+I'm always excited to connect with passionate individuals who love to **build, code, and innovate**.
+
+> **Made with ❤️ by Sai Krishna**  
+> ✨ *Focused on Machine Learning, Deep Learning, Artificial Intelligence & Generative AI roles*  
+> 📬 **DM or ping me through any of the links above — Let’s Build Together!**
 
 ---
-
-## 📊 GitHub Activity Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pedadasaikrishna&theme=radical)
-
----
-
-## 🐍 Contribution Snake  
-![Contribution Snake](https://raw.githubusercontent.com/pedadasaikrishna/pedadasaikrishna/output/github-contribution-grid-snake.svg)
-
-
----
-
-## 🤝 Let's Build Together!  
-
-💡 Open to collaborations on interesting projects. Let’s innovate together!  
-📫 **Reach out to me via any of the links above.**  
