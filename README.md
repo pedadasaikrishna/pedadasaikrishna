@@ -39,7 +39,8 @@
 > **Innovative Lab** – A collaborative and intelligent platform empowering remote teams with real-time communication (chat, video calls), task management, file sharing, and a coding playground. Built using **React.js**, **Node.js**, and **MySQL**, with stunning dark mode UI and ongoing AI integration.
 
 > **PsyShell** – A modern mental wellness collaboration platform focused on accessibility and security. Features include user-friendly mental health tools, interactive communication, and a secure backend using **Node.js** and **SQL**.  
-🔗 [Live Demo](https://psyshell.co/) 
+🔗 [Live Demo](https://psyshell.co/)  --> it was currently shutdown
+> 🔗 [Live Video Demo](https://saikrishnapedada.netlify.app/videos/psyshell.mp4) 
 
 > **MindMash – Quiz App** – An engaging quiz platform built with **React**, offering real-time scoring, responsive design, and fun, informative content across multiple categories.  
 🔗 [Try It](https://mindmash.netlify.app/) 
