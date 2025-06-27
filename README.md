@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Sai Krishna!
+# <img src="https://registry.npmmirror.com/@lobehub/fluent-emoji-anim-1/1.0.0/files/assets/1f44b.webp" alt="Waving Hand" width="32" /> Hi, I'm Sai Krishna!
+
 
 ## 👑 AI, ML & Gen AI Explorer| Programmer | Web Developer | MERN Stack Enthusiast 
 🚀 Passionate about building innovative projects and solving real-world problems.
