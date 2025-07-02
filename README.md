@@ -32,7 +32,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?logo=Google-Chrome&logoColor=white)](https://saikrishnapedada.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/pedada-sai-krishna-94339b297/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram)](https://www.instagram.com/_p_s_k_12_/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/pedadasaikrishna)
 
 ## 🛠️ Projects
