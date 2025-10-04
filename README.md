@@ -3,6 +3,16 @@
 
 ## 👑 AI, ML & Gen AI Explorer| Programmer | Web Developer | MERN Stack Enthusiast 
 🚀 Passionate about building innovative projects and solving real-world problems.
+<!-- GitHub Profile Views -->
+![](https://komarev.com/ghpvc/?username=pedadasaikrishna&color=brightgreen)
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedadasaikrishna&show_icons=true&rank_icon=github&locale=en" alt="pedadasaikrishna" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedadasaikrishna&layout=compact&hide_border=true&langs_count=10&show_icons=true&theme=transparent" />
+</p>
+
+
 
 ---
 
