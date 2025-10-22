@@ -22,7 +22,7 @@
       solutions that solve real-world problems and love diving deep into models,
       algorithms, and innovation. Curious by nature and committed to lifelong
       learning, I continuously enhance my skills to stay ahead in AI. I'm
-      also experienced in <strong>MERN</strong> Stack Development, building
+      also experienced in MERN  Stack Development, building
       responsive web apps that deliver great user experiences.
 
 ---
