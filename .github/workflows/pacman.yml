@@ -1,8 +1,8 @@
-name: generate pacman game
+name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"     # daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -10,20 +10,24 @@ on:
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
-      - name: Generate pacman SVG
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Pacman SVG
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: pedadasaikrishna
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
