@@ -1,8 +1,6 @@
 # <img src="https://registry.npmmirror.com/@lobehub/fluent-emoji-anim-1/1.0.0/files/assets/1f44b.webp" width="32" /> Hey, I'm Sai Krishna Founder @ Path4DSA
 
 
-<br/>
-
 
 ## About Me
 
@@ -30,7 +28,7 @@ I enjoy working on scalable web applications, intelligent systems, and developer
 
 </div>
 
-<br/>
+
 
 <table>
 <tr>
@@ -64,7 +62,6 @@ We regularly share coding questions, developer resources, interview preparation 
 </tr>
 </table>
 
-<br/>
 
 <div align="center">
 
@@ -97,7 +94,6 @@ We regularly share coding questions, developer resources, interview preparation 
 
 </div>
 
-<br/>
 
 <div align="center">
 
