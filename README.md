@@ -1,12 +1,5 @@
-# <img src="https://registry.npmmirror.com/@lobehub/fluent-emoji-anim-1/1.0.0/files/assets/1f44b.webp" width="32" /> Hey, I'm Sai Krishna
+# <img src="https://registry.npmmirror.com/@lobehub/fluent-emoji-anim-1/1.0.0/files/assets/1f44b.webp" width="32" /> Hey, I'm Sai Krishna Founder @ Path4DSA
 
-<div align="center">
-
-## AI/ML Engineer • Gen AI Explorer • MERN Stack Developer • Founder @ Path4DSA
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+AI+%26+Full+Stack+Applications;Founder+of+Path4DSA;Helping+Students+Learn+DSA+For+Free;Passionate+About+Innovation+%26+Development" />
-
-</div>
 
 <br/>
 
